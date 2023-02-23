@@ -20,9 +20,9 @@ const Cliente = ({ cliente }) => {
                     </p>
                 </td>
                 <td className="p-6 flex gap-3">
-                    <button 
-                    type="button"
-                    className="text-blue-600 hover:text-blue-700 uppercase font-bold text-xs "
+                    <button
+                        type="button"
+                        className="text-blue-600 hover:text-blue-700 uppercase font-bold text-xs "
                     >Editar</button>
                     <button
                         type="button"
